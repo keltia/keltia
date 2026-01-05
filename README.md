@@ -4,7 +4,7 @@ My main interests, as you may see in my repositories, are [UNIX](https://en.wiki
 
 - 🌍 https://keltia.net/
 - 📰 https://blog.keltia.net/
-- 💙 https://bsky.app/@keltounet.keltia.net
+- 💙 https://bsky.app/profile/keltounet.keltia.net
 - 🐘 https://mastodon.social/@Keltounet
 
 <!--
