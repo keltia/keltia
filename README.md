@@ -1,4 +1,4 @@
-Welcome, I'm Ollivier Robert, an oldish sysadmin / developer / architect in the UNIX world, currently working in Aviation, most in matters of Surveillance, drones, and stuff.  Before, I was a Security Consultant for a few years.
+Welcome, I'm Ollivier Robert, an oldish sysadmin / developer / architect in the UNIX world, currently working in Aviation, mostly in Surveillance, drones, and stuff.  Before, I was a Security Consultant for a few years.
 
 My main interests, as you may see in my repositories, are [UNIX](https://en.wikipedia.org/wiki/UNIX) and [Cryptography](https://en.wikipedia.org/wiki/Cryptography) -related.  I have used a number of languages over the years, the main ones being, in no order whatsoever, C, Perl, Ruby, Go 🐹, and now Rust 🦀.  I also was a [FreeBSD](https://www.FreeBSD.org/) committer for like 25 years.  You may also know me for [Calife](https://keltia.net/programs/calife/) a lightweight sudo-like program, enabing people to become root securely.
 
@@ -6,6 +6,7 @@ My main interests, as you may see in my repositories, are [UNIX](https://en.wiki
 - 📰 https://blog.keltia.net/
 - 💙 https://bsky.app/profile/keltounet.keltia.net
 - 🐘 https://mastodon.social/@Keltounet
+- 🌱 I’m currently learning Japanese 🗾
 
 <!--
 **keltia/keltia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
