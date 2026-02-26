@@ -6,7 +6,7 @@ My main interests, as you may see in my repositories, are [UNIX](https://en.wiki
 - 📰 https://blog.keltia.net/
 - 💙 https://bsky.app/profile/keltounet.keltia.net
 - 🐘 https://mastodon.social/@Keltounet
-- 🌱 I’m currently learning Japanese 🗾
+- 🌱 I’m currently learning Japanese 🇯🇵
 
 <!--
 **keltia/keltia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
